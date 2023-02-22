@@ -1,6 +1,6 @@
-package hantoe.codingtest.question1;
+package hanteo.codingtest.question1;
 
-import hantoe.codingtest.question1.exception.AlreadyHasParentException;
+import hanteo.codingtest.question1.exception.AlreadyHasParentException;
 
 import java.util.HashMap;
 import java.util.List;

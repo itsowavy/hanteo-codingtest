@@ -1,4 +1,4 @@
-package hantoe.codingtest.question2;
+package hanteo.codingtest.question2;
 
 /**
  * 해당 코드에 대한 Test는 test.java.hantoe.codingtest.question2.CoinTest에 있습니다.

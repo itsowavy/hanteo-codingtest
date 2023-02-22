@@ -1,4 +1,4 @@
-package hantoe.codingtest.question1;
+package hanteo.codingtest.question1;
 
 import java.util.HashSet;
 import java.util.Set;

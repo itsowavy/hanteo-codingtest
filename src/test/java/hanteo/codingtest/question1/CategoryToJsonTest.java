@@ -1,4 +1,4 @@
-package hantoe.codingtest.question1;
+package hanteo.codingtest.question1;
 
 import com.google.gson.Gson;
 import org.junit.jupiter.api.DisplayName;
