@@ -70,7 +70,6 @@ public class CategoryService {
 
 
     public void delete(Long id) {
-        Category category = searchById(id);
         categoryMap.remove(id);
     }
 
